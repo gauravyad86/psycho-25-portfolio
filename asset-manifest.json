@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.js": "/static/js/main.093736f3.chunk.js",
+    "main.js.map": "/static/js/main.093736f3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.bd1c6f22.js",
+    "runtime-main.js.map": "/static/js/runtime-main.bd1c6f22.js.map",
+    "static/js/2.f2ff7091.chunk.js": "/static/js/2.f2ff7091.chunk.js",
+    "static/js/2.f2ff7091.chunk.js.map": "/static/js/2.f2ff7091.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a688560d2044caf898d25d455a04e0a7.js": "/precache-manifest.a688560d2044caf898d25d455a04e0a7.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.f2ff7091.chunk.js.LICENSE.txt": "/static/js/2.f2ff7091.chunk.js.LICENSE.txt",
+    "static/media/add.png": "/static/media/add.9c3c90dd.png",
+    "static/media/car-customization.jpg": "/static/media/car-customization.7718bd2e.jpg",
+    "static/media/crafting.jpg": "/static/media/crafting.82f9f943.jpg",
+    "static/media/dashboard.png": "/static/media/dashboard.43884800.png",
+    "static/media/gameplay.jpg": "/static/media/gameplay.9e82b711.jpg",
+    "static/media/games-grid.jpg": "/static/media/games-grid.38a89762.jpg",
+    "static/media/helicopter.jpg": "/static/media/helicopter.eda16d6a.jpg",
+    "static/media/ietf.jpg": "/static/media/ietf.12c01d5e.jpg",
+    "static/media/logo.png": "/static/media/logo.d615b654.png",
+    "static/media/main.png": "/static/media/main.8d5bbc76.png",
+    "static/media/main.jpg": "/static/media/main.b52b097a.jpg",
+    "static/media/passwords.png": "/static/media/passwords.7916ca20.png",
+    "static/media/plane.jpg": "/static/media/plane.4ac4ed08.jpg",
+    "static/media/pp.jpeg": "/static/media/pp.7284c267.jpeg",
+    "static/media/profile.png": "/static/media/profile.67012220.png",
+    "static/media/prototypes.jpg": "/static/media/prototypes.e8e1b5d5.jpg",
+    "static/media/survival.jpg": "/static/media/survival.99f2008c.jpg",
+    "static/media/terrains.jpg": "/static/media/terrains.da30a8e0.jpg",
+    "static/media/upgrades.jpg": "/static/media/upgrades.e78d3821.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd1c6f22.js",
+    "static/js/2.f2ff7091.chunk.js",
+    "static/js/main.093736f3.chunk.js"
+  ]
+}
